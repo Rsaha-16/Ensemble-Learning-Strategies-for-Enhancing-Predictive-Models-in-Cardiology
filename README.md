@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Ensemble Model
+# Ensemble-Learning-Strategies-for-Enhancing-Predictive-Models-in-Cardiology
 
 This project aims to predict the presence of heart disease in patients using machine learning techniques, particularly ensemble methods. The dataset used for training and testing contains various features such as age, sex, chest pain type, cholesterol levels, and other medical parameters. By analyzing these features, the goal is to build an accurate prediction model that can assist healthcare professionals in diagnosing heart disease.
 
